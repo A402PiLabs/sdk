@@ -1,6 +1,7 @@
 # A402Pi
 
 Official CA : 6czkxM6XoL9UDjoRh4ZBrTMJCfCSpnLLVeFFCLEEpump
+Link Lock : https://app.streamflow.finance/contract/solana/mainnet/G2zcVKNV2v1BdMZXde4uoWhzy1iBWRPsvzrUS7MRRj4L
 
 **A402Pi** delivers advanced digital solutions powered by precision, security, and next-generation technology.
 
