@@ -1,5 +1,7 @@
 # A402Pi
 
+Official CA : 6czkxM6XoL9UDjoRh4ZBrTMJCfCSpnLLVeFFCLEEpump
+
 **A402Pi** delivers advanced digital solutions powered by precision, security, and next-generation technology.
 
 ---
