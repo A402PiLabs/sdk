@@ -1,0 +1,18 @@
+{
+  "name": "a402pi",
+  "version": "1.0.0",
+  "description": "Advanced digital solutions powered by precision and security",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/index.js",
+    "build": "echo Building...",
+    "start": "node src/index.js",
+    "test": "node tests/sample.test.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.0.3"
+  }
+}
+```
